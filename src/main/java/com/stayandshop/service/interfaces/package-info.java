@@ -1,0 +1,1 @@
+package com.stayandshop.service.interfaces;
